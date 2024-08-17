@@ -17,26 +17,23 @@ Here’s a screenshot of the polyhedron generated in Blender:
 
 ![Grace's Polyhedron Screenshot](./graces_polyhedron_screenshot.png)
 
-## How to Use
+## How to Use (Overview)
 1. Open `Grace_Polyhedron.blend` in Blender.
 2. Run the script in the Scripting tab to regenerate the polyhedron.
 
-## How to Run the Script in Blender
-To generate Grace's Polyhedron in Blender using the provided script, follow these steps:
+## How to Run the Script in Blender (Details)
+To generate Grace's Polyhedron using the provided Blender file, follow these steps:
 
 1. **Open the Blender Project**:
    - Download and open the `Graces_Polyhedron.blend` file in Blender.
 
-2. **Access the Scripting Workspace**:
-   - At the top of the Blender window, switch to the **Scripting** workspace. This will open the Text Editor and Python Console areas.
+2. **Access the Script**:
+   - Once the file is open, go to the **Scripting** workspace at the top of the Blender window.
 
-3. **Load the Script**:
-   - In the Text Editor, click on **Open** and navigate to the `grace_polyhedron_script.py` file. This will load the script into the Text Editor.
+3. **Run the Script**:
+   - The script is already included in the Blender file. In the Text Editor panel, ensure the script is loaded (it should be visible by default). Click the **Run Script** button at the top of the Text Editor. This will execute the script and generate the polyhedron in the 3D Viewport.
 
-4. **Run the Script**:
-   - With the script loaded, click the **Run Script** button at the top of the Text Editor. This will execute the script and generate the polyhedron in the 3D Viewport.
-
-5. **Inspect the Generated Polyhedron**:
+4. **Inspect the Generated Polyhedron**:
    - After running the script, the polyhedron should appear in the 3D Viewport. You can use Blender’s tools to inspect, rotate, or modify the polyhedron.
 
 ## References
