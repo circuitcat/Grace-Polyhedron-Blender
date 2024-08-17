@@ -7,6 +7,11 @@ which maximizes the volume for a polyhedron with eight vertices inscribed in a u
 - [`Graces_Polyhedron.blend`](./Graces_Polyhedron.blend): The Blender project file.
 - [`graces_polyhedron_script.py`](./graces_polyhedron_script.py): The script to generate the polyhedron.
 
+## Compatibility
+This project was created using **Blender 3.3.1**. The script and project file should work with Blender 3.x versions, but you might need to make minor adjustments if using a different version. If you encounter any issues, consider checking for the following:
+- **Script Compatibility**: Some Blender Python API functions might differ slightly between versions, so ensure that the functions used are supported in your version.
+- **User Interface**: The location of certain tools or settings in Blender may change between versions, so refer to the Blender documentation for the version you are using.
+
 ## Screenshot
 Here’s a screenshot of the polyhedron generated in Blender:
 
