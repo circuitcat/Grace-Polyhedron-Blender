@@ -39,6 +39,6 @@ To generate Grace's Polyhedron using the provided Blender file, follow these ste
 
 ## References
 - [Grace's Polyhedron Discovery](https://www.ams.org/journals/mcom/1963-17-082/S0025-5718-63-99183-X/S0025-5718-63-99183-X.pdf)
-- [YouTube Video Explanation](https://www.youtube.com/watch?v=XZy3rXr2yeM&t=387s)
+- [Stand-up Maths' YouTube Video Explanation](https://www.youtube.com/watch?v=XZy3rXr2yeM&t=387s)
 - [Convex Hull in Geometry](https://en.wikipedia.org/wiki/Convex_hull)
 - [Platonic and Archimedean Solids](https://mathworld.wolfram.com/PlatonicSolid.html)
