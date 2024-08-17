@@ -18,14 +18,15 @@ Here’s a screenshot of the polyhedron generated in Blender:
 ![Grace's Polyhedron Screenshot](./graces_polyhedron_screenshot.png)
 
 ## How to Use (Overview)
-1. Open `Grace_Polyhedron.blend` in Blender.
-2. Run the script in the Scripting tab to regenerate the polyhedron.
+1. Open [`Graces_Polyhedron.blend`](./Graces_Polyhedron.blend) in Blender.
+2. The script has been run before the file was saved, so the results are already visible.
+3. In case you want to check out the script, you can Run the script in the Scripting tab to regenerate the polyhedron.
 
 ## How to Run the Script in Blender (Details)
 To generate Grace's Polyhedron using the provided Blender file, follow these steps:
 
 1. **Open the Blender Project**:
-   - Download and open the `Graces_Polyhedron.blend` file in Blender.
+   - Download and open the [`Graces_Polyhedron.blend`](./Graces_Polyhedron.blend) file in Blender.
 
 2. **Access the Script**:
    - Once the file is open, go to the **Scripting** workspace at the top of the Blender window.
