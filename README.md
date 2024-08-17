@@ -12,5 +12,5 @@ which maximizes the volume for a polyhedron with eight vertices inscribed in a u
 2. Run the script in the Scripting tab to regenerate the polyhedron.
 
 ## References
-- [Grace's Polyhedron Discovery](https://www.jstor.org/stable/2003517)
+- [Grace's Polyhedron Discovery](https://www.ams.org/journals/mcom/1963-17-082/S0025-5718-63-99183-X/S0025-5718-63-99183-X.pdf)
 - [YouTube Video Explanation](https://www.youtube.com/watch?v=XZy3rXr2yeM&t=387s)
