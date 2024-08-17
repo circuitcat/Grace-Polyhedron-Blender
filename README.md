@@ -4,8 +4,8 @@ This repository contains a Blender project and script for generating Grace's 8-V
 which maximizes the volume for a polyhedron with eight vertices inscribed in a unit sphere.
 
 ## Files Included
-- [`Graces_Polyhedron.blend`](./Graces_Polyhedron.blend): The Blender project file.
-- [`graces_polyhedron_script.py`](./graces_polyhedron_script.py): The script to generate the polyhedron.
+- [`Graces_Polyhedron.blend`](./Graces_Polyhedron.blend): The Blender project file. (Contains the script below.)
+- [`graces_polyhedron_script.py`](./graces_polyhedron_script.py): The script to generate the polyhedron. (In case you want to view the scrip here.)
 
 ## Compatibility
 This project was created using **Blender 3.3.1**. The script and project file should work with Blender 3.x versions, but you might need to make minor adjustments if using a different version. If you encounter any issues, consider checking for the following:
