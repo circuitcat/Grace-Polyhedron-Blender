@@ -1,5 +1,5 @@
 # Grace's 8-Vertex Polyhedron Blender Project
-
+![Grace's Polyhedron](./0012.png)
 This repository contains a Blender project and script for generating Grace's 8-Vertex Polyhedron, 
 which maximizes the volume for a polyhedron with eight vertices inscribed in a unit sphere.
 
