@@ -1,7 +1,7 @@
 # Grace's 8-Vertex Polyhedron Blender Project
 <p align="center">
   <img src="./0010.png" alt="Grace's Polyhedron" width=30%>
-  <img src="./0001-0099.gif" alt="Grace's Polyhedron" width=30%>
+  <img src="./0001-0099_2.gif" alt="Grace's Polyhedron" width=30%>
   <img src="./0012.png" alt="Grace's Polyhedron" width=30%>
 </p>
 
